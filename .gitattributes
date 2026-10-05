@@ -1,0 +1,13 @@
+* text=auto
+*.sln text eol=crlf
+*.csproj text eol=crlf
+*.cs text eol=crlf
+*.resx text eol=crlf
+*.config text eol=crlf
+*.settings text eol=crlf
+*.db binary
+*.dll binary
+*.exe binary
+*.png binary
+*.pdf binary
+*.docx binary
